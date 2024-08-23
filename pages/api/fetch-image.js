@@ -1,4 +1,4 @@
-// pages/api/fetch-image.js
+// pages/api/fetch-image.j
 import axios from 'axios';
 
 export default async function handler(req, res) {
